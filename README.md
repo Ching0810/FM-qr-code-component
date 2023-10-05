@@ -2,7 +2,7 @@
 
 This is a project from Frontend Mentor - QR code component. 
 
-Regrading this project as material for practicing fundemental layout skills, including html sturcture, CSS & SCSS setting, aspecially item alignment.
+Regrading this project as material for practicing fundamental layout skills, including html structure, CSS & SCSS setting, especially item alignment.
 
 This is the final result screenshot:
 
